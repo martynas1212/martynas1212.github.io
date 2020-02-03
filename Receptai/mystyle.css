@@ -47,24 +47,18 @@ img{
     border-color: #FCBA12;
 }
 
-li.ingredientai{
-    color: #343009;
-    font-family: Arial;
-    text-align: left;
-    font-size: 10pt;
-    text-decoration: none;
-}
-
-table.ingredientai{
-    width: 550px;
-    height: 200px;
-}
-
-td.ingredientai{
+.ingredientai{
     color: #343009;
     font-family: Arial;
     text-align: center;
-    font-size: 30pt;
+    font-size: 40pt;
+}
+
+li.ingredientai{
+    color: #343009;
+    font-family: Arial;
+    text-align: justify;
+    font-size: 20pt;
     text-decoration: none;
 }
 
