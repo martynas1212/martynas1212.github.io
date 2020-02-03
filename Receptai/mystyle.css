@@ -1,0 +1,74 @@
+body{
+    background-color: #FB8604;
+}
+
+p{
+    color: #343009;
+    font-family: Arial;
+}
+
+.title{
+    text-align: center;
+    font-size: 70pt;
+}
+
+table{
+    width: 1100px;
+    height: 1000px;
+    margin: auto;
+    border-style: solid;
+    border-color: #FCBA12;
+    border-width: 2px;
+}
+
+table, td{
+    background-color: #F7E7D4;
+}
+
+td, a{
+    color: #343009;
+    font-family: Arial;
+    text-align: center;
+    font-size: 40pt;
+    text-decoration: none;
+}
+
+a:hover{
+    color: #FB8604;
+}
+
+img{
+    width: 500px;
+    display: block; 
+    margin-left: auto;
+    margin-right: auto;
+    border-style: solid;
+    border-width: 2px;
+    border-color: #FCBA12;
+}
+
+li.ingredientai{
+    color: #343009;
+    font-family: Arial;
+    text-align: left;
+    font-size: 10pt;
+    text-decoration: none;
+}
+
+table.ingredientai{
+    width: 550px;
+    height: 200px;
+}
+
+td.ingredientai{
+    color: #343009;
+    font-family: Arial;
+    text-align: center;
+    font-size: 30pt;
+    text-decoration: none;
+}
+
+#inicials{
+    text-align: right;
+    font-size: 10pt;
+}
