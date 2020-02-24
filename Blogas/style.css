@@ -82,3 +82,15 @@ body{
 img{
     width: 250px;
 }
+
+.date{
+    margin: auto;
+    text-align: center;
+    font-size: 10px;
+    width: 1000px;
+    color: #F2F3F4;
+}
+
+a{
+    color: white;
+}
